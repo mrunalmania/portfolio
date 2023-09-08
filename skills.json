@@ -1,0 +1,99 @@
+[
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/amazon-web-services.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/python--v1.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/pandas.png"
+    },
+    {
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/color/48/numpy.png"
+    },
+    {
+        "name": "Anaconda",
+        "icon": "https://img.icons8.com/fluency/48/anaconda--v2.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/nolan/64/git.png"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/color/48/kubernetes.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/docker.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/sql.png"
+    },
+    {
+        "name": "Tensorflow",
+        "icon": "https://img.icons8.com/color/48/tensorflow.png"
+    },
+    {
+        "name": "My SQL",
+        "icon": "https://img.icons8.com/fluency/48/mysql-logo.png"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/color/48/visual-studio-code-2019.png"
+    },
+    {
+        "name": "Hadoop",
+        "icon": "https://img.icons8.com/color/48/hadoop-distributed-file-system.png"
+    },
+    {
+        "name": "Rest API",
+        "icon": "https://img.icons8.com/nolan/64/api-settings.png"
+    },
+    {
+        "name": "Github",
+        "icon": "https://img.icons8.com/ios-filled/50/github.png"
+    },
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/fluency/48/html-5.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color-glass/48/css.png"
+    },
+    {
+        "name": "C",
+        "icon": "https://img.icons8.com/fluency/48/c-programming.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/c-plus-plus-logo.png"
+    },
+    {
+        "name": "Pytorch",
+        "icon": "https://img.icons8.com/nolan/64/py.png"
+    },
+    {
+        "name": "Photoshop",
+        "icon": "https://img.icons8.com/color/48/adobe-photoshop--v1.png"
+    },
+    {
+        "name": "illustrator",
+        "icon": "https://img.icons8.com/color/48/adobe-illustrator--v1.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/figma--v1.png"
+    },
+    {
+        "name": "Final Cut Pro",
+        "icon": "https://img.icons8.com/color/48/final-cut-pro-x.png"
+    }
+    
+]
