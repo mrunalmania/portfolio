@@ -1,0 +1,42 @@
+site_name: Mrunal Mania 
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - navigation.prune
+    - search.suggest
+    - search.highlight
+    - search.share
+
+
+plugins:
+  - search
+  - tags
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+
