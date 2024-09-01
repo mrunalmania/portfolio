@@ -15,6 +15,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
   features:
     - navigation.instant
     - navigation.instant.prefetch
@@ -30,6 +31,9 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+  icon:
+    logo: simple/mega
+  favicon: images/Favicon-1.png
 
 
 plugins:
