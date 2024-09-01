@@ -31,6 +31,9 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - header.autohide
+    - navigation.footer
+
   icon:
     logo: simple/mega
   favicon: images/Favicon-1.png
@@ -42,5 +45,21 @@ plugins:
 markdown_extensions:
   - attr_list
   - md_in_html
+
+
+extra:
+  social:
+    - icon: simple/linkedin
+      link: https://www.linkedin.com/in/mrunalmania/
+    - icon: material/email
+      link: mailto:mrunal29mania@outlook.com
+    - icon: simple/huggingface
+      link: https://huggingface.co/mrunalmania
+    - icon: simple/github
+      link: https://github.com/mrunalmania
+  generator: false
+
+copyright: Copyright &copy; 2023 - 2024 Mrunal Ashwinbhai Mania
+
 
 
