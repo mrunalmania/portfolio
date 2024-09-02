@@ -13,7 +13,7 @@ In the age of information overload, the ability to distill large volumes of text
 
 For a detailed look at the code and to explore these summarization techniques further, visit my GitHub repository:
 
-[GitHub Repository: Text Summarization with Gensim, NLTK, and SpaCy](https://github.com/yourusername/text-summarization)
+[GitHub Repository: Text Summarization with Gensim, NLTK, and SpaCy](https://github.com/mrunalmania/text-summarization-nlp)
 
 Feel free to clone the repository, contribute, or reach out if you have any questions or feedback!
 
